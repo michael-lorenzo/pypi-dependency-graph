@@ -1,0 +1,7 @@
+networkx
+numpy
+packaging
+requests
+scipy
+sqlalchemy
+tqdm
